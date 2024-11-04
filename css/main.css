@@ -1,0 +1,22 @@
+.top{
+    text-align: center;
+}
+.sec{
+    margin-top: 40px;
+}
+.child{
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+.child i{
+    font-size: 40px;
+    background-color: gold;
+    color: white;
+    width: 95px;
+    height: 50px;
+    padding-top: 10px;
+}
+.clearfix{
+    clear: both;
+}
